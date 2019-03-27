@@ -14,10 +14,7 @@ For the first time, designers can create **and ship** beautiful animations witho
 
 
 
-![Example1](gifs/Example1.gif)
 
-
-![Example2](gifs/Example2.gif)
 
 
 ![Example3](gifs/Example3.gif)
